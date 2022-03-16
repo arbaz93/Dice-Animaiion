@@ -1,6 +1,6 @@
 # 3d-Cube-Animations
 
-- [Live link]## https://arbaz93.github.io/Dice-Animation/
+##- [Live link] https://arbaz93.github.io/Dice-Animation/
 
-![3d dice animation](./images/Screenshot (43).png)
+![3d dice animation](./images/dice-preview.png)
 ![shere inside a cube 3d  animation](./images/preview.png)
